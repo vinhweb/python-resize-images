@@ -1,7 +1,7 @@
 # Python Resize Images
 Xin chào, mình là Vinh đây. 
 
-[![Python Optimize Images](http://img.youtube.com/vi/aRmBLWA_czA/0.jpg)](http://www.youtube.com/watch?v=aRmBLWA_czA)
+[![Python Resize Images](http://img.youtube.com/vi/lSgm4AQZ230/maxresdefault.jpg)](http://www.youtube.com/watch?v=lSgm4AQZ230)
 
 Đây là code Python thay đổi kích thước hình ảnh hàng loạt một cách miễn phí, nhanh chóng. Có thể xử lý bao nhiêu cũng được, tốc độ nhanh.
 
@@ -39,7 +39,7 @@ Với một hình ảnh `example.jpg` trong thư mục:
 - Việc xử lý các tệp không phải ảnh hoặc định dạng không được hỗ trợ sẽ dẫn đến lỗi.
 
 ----
-Đọc thêm tại: https://vinhweb.com/blog/code-python-optimize-toi-uu-hinh-anh-mien-phi
+Đọc thêm tại: https://vinhweb.com/blog/code-python-resize-image-thay-doi-kich-thuoc-hinh-anh-hang-loat
 
 Nhiều source code hay hơn nữa tại website: https://vinhweb.com/.
 
